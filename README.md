@@ -1,6 +1,6 @@
 # Forms
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
+This project contains Angular 4 forms validation (control,group,two way data binding....)
 
 ## Development server
 
